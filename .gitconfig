@@ -90,3 +90,8 @@
 
 [push]
 	default = matching
+
+[user]
+    name = Gil Ochayon
+    email = gil.ochayon@gmail.com
+
